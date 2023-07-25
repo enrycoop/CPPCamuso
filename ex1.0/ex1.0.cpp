@@ -16,14 +16,22 @@ int main()
     std::cout << "Inserisci la somma in euro: ";
     int euro;
     std::cin >> euro;
+    if (euro <= 0) {
+        std::cout << "Inserire un valore maggiore di zero!" 
+                  << std::endl;
+    }
 
-    std::cout << "Fattire di cambio? ";
+    std::cout << "Fattore di cambio? ";
     double cambio;
     std::cin >> cambio;
-    std::cout << "Cambio letto: " << cambio << std::endl;
+
+    std::cout << "Cambio letto: " 
+              << cambio 
+              << std::endl;
 
     std::cout << "In dollari: " 
-              << euro * cambio << std::endl;
+              << euro * cambio 
+              << std::endl;
 
     
 }
