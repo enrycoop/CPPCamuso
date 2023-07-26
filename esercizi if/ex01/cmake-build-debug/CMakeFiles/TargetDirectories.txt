@@ -1,0 +1,3 @@
+D:/DOCUMENTI/CPPCamuso/esercizi if/ex01/cmake-build-debug/CMakeFiles/ex01.dir
+D:/DOCUMENTI/CPPCamuso/esercizi if/ex01/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DOCUMENTI/CPPCamuso/esercizi if/ex01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

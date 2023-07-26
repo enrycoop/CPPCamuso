@@ -19,19 +19,19 @@ int main()
     if (euro <= 0) {
         std::cout << "Inserire un valore maggiore di zero!" 
                   << std::endl;
+    } else {
+        std::cout << "Fattore di cambio? ";
+        double cambio;
+        std::cin >> cambio;
+
+        if (cambio > 0) {
+            std::cout << "In dollari: "
+                << euro * cambio
+                << std::endl;
+        }
+        else {
+            std::cout << "Inserire un valore maggiore di zero!"
+                << std::endl;
+        }
     }
-
-    std::cout << "Fattore di cambio? ";
-    double cambio;
-    std::cin >> cambio;
-
-    std::cout << "Cambio letto: " 
-              << cambio 
-              << std::endl;
-
-    std::cout << "In dollari: " 
-              << euro * cambio 
-              << std::endl;
-
-    
 }

@@ -16,6 +16,17 @@ int main()
     cout << "sosia 2: " << sosia2 << endl;
     cout << "sosia 3: " << sosia3 << endl;
     cout << "sosia 4: " << sosia4 << endl;
+
+    long n1 = 10;
+
+    unsigned int us = 40000;
+
+    unsigned long n = 432UL; // l'ordine dei postfissi non conta potevamo scrivere anche LU
+
+    long long ll = 25000LL;
+    unsigned long long ll = 25000ULL;
+
+    unsigned long schifoso = 0xF0UL;
 }
 
 // Per eseguire il programma: CTRL+F5 oppure Debug > Avvia senza eseguire debug
