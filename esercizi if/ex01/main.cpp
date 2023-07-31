@@ -82,7 +82,5 @@ int main() {
     else
         cout << "Verificato per n1, n2, n3" << endl;
 
-
-
     return 0;
 }
