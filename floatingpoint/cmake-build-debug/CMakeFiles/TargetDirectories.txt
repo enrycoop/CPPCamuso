@@ -1,0 +1,3 @@
+D:/DOCUMENTI/CPPCamuso/floatingpoint/cmake-build-debug/CMakeFiles/floatingpoint.dir
+D:/DOCUMENTI/CPPCamuso/floatingpoint/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DOCUMENTI/CPPCamuso/floatingpoint/cmake-build-debug/CMakeFiles/rebuild_cache.dir
