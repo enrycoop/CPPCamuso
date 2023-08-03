@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cmath>
+#include <limits>
 using namespace std;
 
 void prima_parte() {
@@ -42,8 +44,26 @@ void seconda_parte() {
     cout << sizeof(float) << endl;
     cout << sizeof(double) << endl;
     cout << sizeof(long double) << endl;
+    cout.precision(20);
+    cout << "float\n"
+         << " " << numeric_limits<float>::lowest() << endl
+         << " " << numeric_limits<float>::max() << "\n\n";
+    cout << "double\n"
+         << " " << numeric_limits<double>::lowest() << endl
+         << " " << numeric_limits<double>::max() << "\n\n";
+    cout << "long double\n"
+         << " " << numeric_limits<long double>::lowest() << endl
+         << " " << numeric_limits<long double>::max() << "\n\n";
 
+    if ( (8 - 6.4) == 1.6 )
+        cout << "Espressioni uguali \n";
+    else
+        cout << "Espressioni diverse \n";
 
+    if ( abs((8 - 6.4) - 1.6 ) < .0001)
+        cout << "Espressioni uguali \n";
+    else
+        cout << "Espressioni diverse \n";
 }
 
 int main() {
