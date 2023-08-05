@@ -1,0 +1,3 @@
+D:/CPPCamuso/file_csv/cmake-build-debug/CMakeFiles/file_csv.dir
+D:/CPPCamuso/file_csv/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CPPCamuso/file_csv/cmake-build-debug/CMakeFiles/rebuild_cache.dir

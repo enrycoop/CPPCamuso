@@ -1,0 +1,3 @@
+D:/CPPCamuso/cicli/cmake-build-debug/CMakeFiles/cicli.dir
+D:/CPPCamuso/cicli/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CPPCamuso/cicli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
