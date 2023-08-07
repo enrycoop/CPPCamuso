@@ -1,0 +1,3 @@
+/home/enrico/CLionProjects/contenitori_di_dati/array_semplici/cmake-build-debug/CMakeFiles/array_semplici.dir
+/home/enrico/CLionProjects/contenitori_di_dati/array_semplici/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enrico/CLionProjects/contenitori_di_dati/array_semplici/cmake-build-debug/CMakeFiles/rebuild_cache.dir

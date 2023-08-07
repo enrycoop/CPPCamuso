@@ -35,8 +35,8 @@ void caratteri() {
  */
 void approfondimento() {
   char16_t  c2 = u'\u15AD'; //abbreviazione per U'\U000015AD'
-  char32_t  c3 = U'\U10FA10FA';
-  //system("chcp 10000"); setta la codifica altrimenti non si può leggere quel carattere c2
+  //char32_t  c3 = U'\U10FA10FA';
+  //system("chcp 10000");// setta la codifica altrimenti non si può leggere quel carattere c2
   cout << c2 << endl;
 }
 

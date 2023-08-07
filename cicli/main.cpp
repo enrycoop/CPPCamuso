@@ -12,7 +12,7 @@ void primo() {
 
 
     while(true) {
-        numero_estratto = rand()%6 + 1;
+        numero_estratto = (rand()%6) + 1;
         switch (numero_estratto) {
             case 1: n1=true;
                 break;
@@ -48,7 +48,7 @@ int main() {
     int conta_sei=0, lanci=0;
 
     while (conta_sei<3) {
-        numero_estratto = rand()%9 + 1;
+        numero_estratto = rand()%6+ 1;
         lanci++;
         if(numero_estratto==6) conta_sei++;
         cout << numero_estratto << endl;

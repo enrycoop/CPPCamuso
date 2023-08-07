@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/char.dir/main.cpp.o -o char 
