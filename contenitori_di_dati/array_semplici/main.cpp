@@ -9,8 +9,31 @@ void for_alternative() {
     cout << "Stringa: " << inputTot << endl;
 }
 
+void palindroma() {
+    cout << "Inserire una parola: ";
+    string s="";
+    cin >> s;
+
+    bool palindroma=true;
+    for (int sinistra=0, destra=s.length() -1;
+         sinistra<destra; sinistra++,destra--)
+    {
+        if(s[sinistra]!=s[destra])
+        {
+            palindroma=false;
+            break;
+        }
+    }
+    if(palindroma)
+        cout << "Palindroma!\n";
+    else
+        cout << "No...\n";
+
+}
+
 
 int main() {
+
 
     const int MAX_HOBBY = 6;
     string hobby[MAX_HOBBY] = {};

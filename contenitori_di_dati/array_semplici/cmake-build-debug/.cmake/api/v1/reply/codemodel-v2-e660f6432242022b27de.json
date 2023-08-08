@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/enrico/CLionProjects/contenitori_di_dati/array_semplici/cmake-build-debug",
-		"source" : "/home/enrico/CLionProjects/contenitori_di_dati/array_semplici"
+		"build" : "/home/enrico/Documenti/GitHub/CPPCamuso/contenitori_di_dati/array_semplici/cmake-build-debug",
+		"source" : "/home/enrico/Documenti/GitHub/CPPCamuso/contenitori_di_dati/array_semplici"
 	},
 	"version" : 
 	{
