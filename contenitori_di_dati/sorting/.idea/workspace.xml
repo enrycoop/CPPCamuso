@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -21,29 +21,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bef12fba-a207-4b0e-8f24-eb6373161048" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../array_semplici/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../range_for_e_ricerca/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../range_for_e_ricerca/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../range_for_e_ricerca/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../range_for_e_ricerca/.idea/range_for_e_ricerca.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../range_for_e_ricerca/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../range_for_e_ricerca/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../range_for_e_ricerca/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4e966cbcbb399866dbb4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-bcee7f04b70ae9d032e6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1f4f5215748778d0d12f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-07T12-48-16-0560.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/array_semplici.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/array_semplici.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/array_semplici" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/array_semplici" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array_semplici/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../array_semplici/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +42,9 @@
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ThSxScF1wbkAsZT7z9G8WYR7pR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -79,13 +59,17 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="sorting" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sorting" TARGET_NAME="sorting" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sorting" RUN_TARGET_NAME="sorting">
@@ -103,10 +87,17 @@
       <option name="presentableId" value="Default" />
       <updated>1691494065279</updated>
       <workItem from="1691494066403" duration="21000" />
+      <workItem from="1691531651560" duration="2102000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
 </project>

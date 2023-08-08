@@ -1,0 +1,3 @@
+/home/enrico/Documenti/GitHub/CPPCamuso/espressioni/precedenze/cmake-build-debug/CMakeFiles/precedenze.dir
+/home/enrico/Documenti/GitHub/CPPCamuso/espressioni/precedenze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enrico/Documenti/GitHub/CPPCamuso/espressioni/precedenze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
