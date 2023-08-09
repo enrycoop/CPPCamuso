@@ -1,0 +1,3 @@
+/home/enrico/Documenti/GitHub/CPPCamuso/espressioni/promozioni_e_conversioni_implicite/cmake-build-debug/CMakeFiles/promozioni_e_conversioni_implicite.dir
+/home/enrico/Documenti/GitHub/CPPCamuso/espressioni/promozioni_e_conversioni_implicite/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enrico/Documenti/GitHub/CPPCamuso/espressioni/promozioni_e_conversioni_implicite/cmake-build-debug/CMakeFiles/rebuild_cache.dir
