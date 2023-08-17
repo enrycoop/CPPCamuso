@@ -1,0 +1,3 @@
+C:/Users/enric/source/repos/CPPCamuso/funzioni/approfondimento/cmake-build-debug/CMakeFiles/approfondimento.dir
+C:/Users/enric/source/repos/CPPCamuso/funzioni/approfondimento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/enric/source/repos/CPPCamuso/funzioni/approfondimento/cmake-build-debug/CMakeFiles/rebuild_cache.dir
