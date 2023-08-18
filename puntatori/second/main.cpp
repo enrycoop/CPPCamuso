@@ -25,6 +25,7 @@ int main() {
     cout << sizeof(double*) << endl;
     cout << sizeof(long double*) << endl;
     cout << sizeof(string*) << endl;
+    cout << "----------------------------------" << endl;
 
     /*
      * essendo sempre uguali di dimensione, posso scambiare il puntatore a double con uno a char*?
@@ -48,8 +49,9 @@ int main() {
          *    =
          * 10111001
          */
-        for(char c : {'C','I','A','V','E'})
-            pChar[i*8+7] ^= c;
+        int dim = sizeof(double);
+        for(char c : {'C','H','I','A','V','E'})
+            pChar[i*dim+c%dim] ^= c;
         cout << pDouble[i] << endl;
     }
     cout << "----------------------------------" << endl;
@@ -57,11 +59,15 @@ int main() {
     for(int i=0; i<5; ++i){
         /*
          * stesso procedimento per portarlo indietro
+         * da notare che vale anche se le lettere sono invertite d'ordine
+         * il ché non lo rende una cifratura sicurissima
          */
-        for(char c : {'C','I','A','V','E'})
-            pChar[i*8+7] ^= c;
+        int dim = sizeof(double);
+        for(char c : {'C','H','I','A','V','E'})
+            pChar[i*dim+c%dim] ^= c;
         cout << pDouble[i] << endl;
     }
+
 
 
 
