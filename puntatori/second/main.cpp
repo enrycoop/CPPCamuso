@@ -20,11 +20,48 @@ int main() {
     cout << DIM*sizeof(long double) << endl;
     cout << DIM*sizeof(string) << endl;
     cout << "----------------------------------" << endl;
-    cout << DIM*sizeof(char*) << endl;
-    cout << DIM*sizeof(int*) << endl;
-    cout << DIM*sizeof(double*) << endl;
-    cout << DIM*sizeof(long double*) << endl;
-    cout << DIM*sizeof(string*) << endl;
+    cout << sizeof(char*) << endl;
+    cout << sizeof(int*) << endl;
+    cout << sizeof(double*) << endl;
+    cout << sizeof(long double*) << endl;
+    cout << sizeof(string*) << endl;
+
+    /*
+     * essendo sempre uguali di dimensione, posso scambiare il puntatore a double con uno a char*?
+     * cast vecchio stile (char*), in c++ ci sono nuovi modi.
+     * Possibile utilizzo: crittografia
+     */
+    for(int i=0; i<5; i++){
+        pDouble[i]=rand();
+        cout << pDouble[i] << endl;
+    }
+    cout << "----------------------------------" << endl;
+
+    pChar = (char *) pDouble;
+
+    for(int i=0; i<5; ++i){
+        /*
+         * faccio lo xor tra il valore int di 'A' cioè 65 e l'ultimo byte di double ossia l'8avo
+         * XOR
+         * 01011011
+         * 11100010
+         *    =
+         * 10111001
+         */
+        for(char c : {'C','I','A','V','E'})
+            pChar[i*8+7] ^= c;
+        cout << pDouble[i] << endl;
+    }
+    cout << "----------------------------------" << endl;
+
+    for(int i=0; i<5; ++i){
+        /*
+         * stesso procedimento per portarlo indietro
+         */
+        for(char c : {'C','I','A','V','E'})
+            pChar[i*8+7] ^= c;
+        cout << pDouble[i] << endl;
+    }
 
 
 
