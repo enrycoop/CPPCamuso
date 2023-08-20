@@ -1,0 +1,3 @@
+H:/GitHub/CPPCamuso/puntatori/approfondimento_puntatori_a_funzione/cmake-build-debug/CMakeFiles/approfondimento_puntatori_a_funzione.dir
+H:/GitHub/CPPCamuso/puntatori/approfondimento_puntatori_a_funzione/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/GitHub/CPPCamuso/puntatori/approfondimento_puntatori_a_funzione/cmake-build-debug/CMakeFiles/rebuild_cache.dir
