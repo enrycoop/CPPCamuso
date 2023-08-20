@@ -34,5 +34,9 @@ int main() {
 
     temp = nullptr;
 
+    // malloc free realloc
+    int* p = (int *)malloc( sizeof(int) * 100);
+    free(p);
+
     return 0;
 }
