@@ -30,5 +30,6 @@ int main()
          << "\nz: " << medio->z << endl;
 
     delete a; delete b; delete medio;
+
     return 0;
 }
