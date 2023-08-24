@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1692868468 source:h:\github\cppcamuso\oop\astrazione\data.cpp
+	"data.h"
+
+1692915036 h:\github\cppcamuso\oop\astrazione\data.h
+	<string>
+	<ctime>
+
+1692877872 source:h:\github\cppcamuso\oop\astrazione\main.cpp
+	<iostream>
+	"data.h"
+
