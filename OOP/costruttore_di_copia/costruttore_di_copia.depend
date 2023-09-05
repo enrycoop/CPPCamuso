@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1692951800 source:h:\github\cppcamuso\oop\costruttore_di_copia\src\data.cpp
+	"data.h"
+
+1692951516 h:\github\cppcamuso\oop\costruttore_di_copia\include\data.h
+	<string>
+	<ctime>
+
