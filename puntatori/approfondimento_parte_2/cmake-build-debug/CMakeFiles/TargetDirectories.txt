@@ -1,3 +1,0 @@
-H:/GitHub/CPPCamuso/puntatori/approfondimento_parte_2/cmake-build-debug/CMakeFiles/approfondimento_parte_2.dir
-H:/GitHub/CPPCamuso/puntatori/approfondimento_parte_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/GitHub/CPPCamuso/puntatori/approfondimento_parte_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

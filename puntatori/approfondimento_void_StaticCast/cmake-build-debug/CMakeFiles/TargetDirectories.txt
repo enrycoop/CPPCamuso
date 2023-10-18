@@ -1,3 +1,0 @@
-H:/GitHub/CPPCamuso/puntatori/approfondimento_void_StaticCast/cmake-build-debug/CMakeFiles/approfondimento_void_StaticCast.dir
-H:/GitHub/CPPCamuso/puntatori/approfondimento_void_StaticCast/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/GitHub/CPPCamuso/puntatori/approfondimento_void_StaticCast/cmake-build-debug/CMakeFiles/rebuild_cache.dir

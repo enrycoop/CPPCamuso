@@ -1,3 +1,0 @@
-/home/enrico/Documenti/GitHub/CPPCamuso/char/cmake-build-debug/CMakeFiles/char.dir
-/home/enrico/Documenti/GitHub/CPPCamuso/char/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/enrico/Documenti/GitHub/CPPCamuso/char/cmake-build-debug/CMakeFiles/rebuild_cache.dir

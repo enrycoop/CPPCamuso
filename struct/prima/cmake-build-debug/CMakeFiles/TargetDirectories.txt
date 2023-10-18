@@ -1,3 +1,0 @@
-H:/GitHub/CPPCamuso/struct/prima/cmake-build-debug/CMakeFiles/prima.dir
-H:/GitHub/CPPCamuso/struct/prima/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/GitHub/CPPCamuso/struct/prima/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-H:/GitHub/CPPCamuso/puntatori/ESERCIZIO02/cmake-build-debug/CMakeFiles/ESERCIZIO02.dir
-H:/GitHub/CPPCamuso/puntatori/ESERCIZIO02/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/GitHub/CPPCamuso/puntatori/ESERCIZIO02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

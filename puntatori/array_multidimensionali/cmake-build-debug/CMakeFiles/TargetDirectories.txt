@@ -1,3 +1,0 @@
-H:/GitHub/CPPCamuso/puntatori/array_multidimensionali/cmake-build-debug/CMakeFiles/array_multidimensionali.dir
-H:/GitHub/CPPCamuso/puntatori/array_multidimensionali/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/GitHub/CPPCamuso/puntatori/array_multidimensionali/cmake-build-debug/CMakeFiles/rebuild_cache.dir

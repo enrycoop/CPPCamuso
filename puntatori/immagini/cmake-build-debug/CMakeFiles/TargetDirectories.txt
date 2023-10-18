@@ -1,3 +1,0 @@
-C:/Users/enric/source/repos/CPPCamuso/puntatori/immagini/cmake-build-debug/CMakeFiles/immagini.dir
-C:/Users/enric/source/repos/CPPCamuso/puntatori/immagini/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/enric/source/repos/CPPCamuso/puntatori/immagini/cmake-build-debug/CMakeFiles/rebuild_cache.dir

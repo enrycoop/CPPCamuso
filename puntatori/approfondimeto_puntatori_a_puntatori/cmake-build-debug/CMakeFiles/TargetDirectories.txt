@@ -1,3 +1,0 @@
-H:/GitHub/CPPCamuso/puntatori/approfondimeto_puntatori_a_puntatori/cmake-build-debug/CMakeFiles/approfondimeto_puntatori_a_puntatori.dir
-H:/GitHub/CPPCamuso/puntatori/approfondimeto_puntatori_a_puntatori/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/GitHub/CPPCamuso/puntatori/approfondimeto_puntatori_a_puntatori/cmake-build-debug/CMakeFiles/rebuild_cache.dir
